@@ -1,0 +1,100 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 30px;
+    background-color: E4EBF1;
+}
+header{
+    background-color: #005757;
+    margin-bottom: 0px;
+}
+h3 {
+    color: #019999;
+}
+h1 {
+    text-shadow: 2px 2px black;
+    padding-top: 20px;
+    background-color: #005757;
+    color: #019999;
+    text-align: center;
+}
+#contact{
+    margin-right: 10px;
+    float: right;
+    line-height: 20px;
+    background-color: #005757;
+}
+/*footer {
+    text-align: center;
+    
+}*/
+img{
+    margin-top: 0px;
+    border-radius: 50%;
+}
+.body {
+    margin-top: 10px;
+    padding: 10px;
+}
+article{
+    float:left;
+    height: 80px;
+    width: 300px;
+    font-size: 15;
+
+}
+section{
+    color: #019999;
+    margin-top: 10px;
+}
+aside{
+    margin-left: 350px;
+
+}
+nav{
+    background-color: #333;
+    margin-top: 0px;
+    padding: 10px;
+}
+nav a {  
+    background-color: #333;
+    color: #019999;
+    text-decoration: none;
+    text-align: center;
+    top: 0;
+    width: auto;
+    margin: 20px;
+}
+nav a:hover {
+    background-color: rgb(61, 18, 18);
+    color: white;
+    padding: 10px;
+    
+  }
+#socials{
+    margin: auto;
+    width: 400px;
+    padding-top: 20px;
+}
+p{
+    font-size: 15;
+}
+ul{
+    font-size: 14;
+}
+#skills-list li {
+    float: left;
+    margin-right: 30px;
+}
+footer {
+    clear: both;
+    margin-top: 10px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    text-align: center;
+    
+}
+footer a{
+    clear: both;
+    padding: 20px;
+    text-decoration: none;
+}
