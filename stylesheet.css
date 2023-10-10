@@ -23,10 +23,10 @@ h1 {
     line-height: 20px;
     background-color: #005757;
 }
-/*footer {
+footer {
     text-align: center;
     
-}*/
+}
 img{
     margin-top: 0px;
     border-radius: 50%;
@@ -35,16 +35,17 @@ img{
     margin-top: 10px;
     padding: 10px;
 }
-article{
-    float:left;
-    height: 80px;
-    width: 300px;
-    font-size: 15;
 
-}
 section{
     color: #019999;
     margin-top: 10px;
+}
+article{
+    float:left;
+    /*height: 40px;*/
+    width: 300px;
+    font-size: 15;
+
 }
 aside{
     margin-left: 350px;
